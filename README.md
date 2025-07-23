@@ -18,8 +18,8 @@ It allows you to write Markdown on one side and preview the rendered content on 
 ---
 
 ## 📸 Screenshots
-![Screenshot 1](./screenshots/download.png)
-![Screenshot 2](./screenshots/d2.png)
+![Screenshot 1](./src/screenshots/download.png)
+![Screenshot 2](./src/screenshots/d2.png)
 
 ---
 
